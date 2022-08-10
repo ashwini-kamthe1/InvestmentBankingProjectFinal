@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[verifyZerodhaLoginPageLogo]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaLoginPageAndroidLogo]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaLoginPageIosLogo]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaLoginPageApplicationVersion]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePin]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePin]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageLogo]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageNickName]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageSearchBar]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageDashboardOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageOrdersOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageHoldingsOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePagePositionsOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageFundsOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageAppsOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageViewStatementOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageMarginAvailableOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageMarginUsedOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageOpeningBalanceOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageUserAccountProfileOpt]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaHomePageUserAccountProfileOpt]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageUserFullName]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaHomePageUserEmailId]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaHomePageLogoutBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePin]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+    </line>
+    <line>
+      <![CDATA[selectZerodhaOrderPageShareQuantityOptn]]>
+    </line>
+    <line>
+      <![CDATA[selectZerodhaOrderPageSharePriceOptn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaOrderPageTriggerPriceOptn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaOrderPageMarketOptn]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaOrderPageOrderBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePin]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+    </line>
+    <line>
+      <![CDATA[selectZerodhaOrderPageShareQuantityOptn]]>
+    </line>
+    <line>
+      <![CDATA[selectZerodhaOrderPageSharePriceOptn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaOrderPageTriggerPriceOptn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaOrderPageMarketOptn]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaOrderPageOrderBtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-10T16:37:25 IST" name="Suite" finished-at="2022-08-10T16:38:56 IST" duration-ms="90169">
+    <groups>
+      <group name="Functional">
+        <method signature="OrderPageTest.EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@610f7aa]" name="EquityOrderTest" class="com.zerodha.QA11.Testcases.OrderPageTest"/>
+      </group> <!-- Functional -->
+      <group name="Regression">
+        <method signature="OrderPageTest.EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@610f7aa]" name="EquityOrderTest" class="com.zerodha.QA11.Testcases.OrderPageTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2022-08-10T16:37:25 IST" name="Test" finished-at="2022-08-10T16:38:56 IST" duration-ms="90169">
+      <class name="com.zerodha.QA11.Testcases.OrderPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.zerodha.QA11.Testcases.OrderPageTest@610f7aa]" started-at="2022-08-10T16:37:25 IST" name="Setup" finished-at="2022-08-10T16:38:43 IST" duration-ms="77717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@610f7aa]" started-at="2022-08-10T16:38:43 IST" name="EquityOrderTest" finished-at="2022-08-10T16:38:56 IST" duration-ms="12450" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[setZerodhaLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePin]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+            </line>
+            <line>
+              <![CDATA[selectZerodhaOrderPageShareQuantityOptn]]>
+            </line>
+            <line>
+              <![CDATA[selectZerodhaOrderPageSharePriceOptn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaOrderPageTriggerPriceOptn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaOrderPageMarketOptn]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaOrderPageOrderBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EquityOrderTest -->
+      </class> <!-- com.zerodha.QA11.Testcases.OrderPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2022-08-10T16:33:42 IST" name="FunctionalSuite" finished-at="2022-08-10T16:37:25 IST" duration-ms="223348">
+    <groups>
+      <group name="Functional">
+        <method signature="HomePageTest.HomePageTest1()[pri:2, instance:com.zerodha.QA11.Testcases.HomePageTest@10aa41f2]" name="HomePageTest1" class="com.zerodha.QA11.Testcases.HomePageTest"/>
+        <method signature="LoginPageTest.ZerodhaLoginPageTest()[pri:1, instance:com.zerodha.QA11.Testcases.LoginPageTest@c86b9e3]" name="ZerodhaLoginPageTest" class="com.zerodha.QA11.Testcases.LoginPageTest"/>
+        <method signature="OrderPageTest.EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@3af9c5b7]" name="EquityOrderTest" class="com.zerodha.QA11.Testcases.OrderPageTest"/>
+      </group> <!-- Functional -->
+      <group name="Regression">
+        <method signature="OrderPageTest.EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@3af9c5b7]" name="EquityOrderTest" class="com.zerodha.QA11.Testcases.OrderPageTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2022-08-10T16:33:42 IST" name="Test" finished-at="2022-08-10T16:37:25 IST" duration-ms="223348">
+      <class name="com.zerodha.QA11.Testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.zerodha.QA11.Testcases.LoginPageTest@c86b9e3]" started-at="2022-08-10T16:33:42 IST" name="setup" finished-at="2022-08-10T16:34:22 IST" duration-ms="39994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ZerodhaLoginPageTest()[pri:1, instance:com.zerodha.QA11.Testcases.LoginPageTest@c86b9e3]" started-at="2022-08-10T16:34:22 IST" name="ZerodhaLoginPageTest" finished-at="2022-08-10T16:34:36 IST" duration-ms="13774" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyZerodhaLoginPageLogo]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaLoginPageAndroidLogo]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaLoginPageIosLogo]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaLoginPageApplicationVersion]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePin]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ZerodhaLoginPageTest -->
+      </class> <!-- com.zerodha.QA11.Testcases.LoginPageTest -->
+      <class name="com.zerodha.QA11.Testcases.OrderPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.zerodha.QA11.Testcases.OrderPageTest@3af9c5b7]" started-at="2022-08-10T16:35:51 IST" name="Setup" finished-at="2022-08-10T16:37:11 IST" duration-ms="79587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@3af9c5b7]" started-at="2022-08-10T16:37:11 IST" name="EquityOrderTest" finished-at="2022-08-10T16:37:25 IST" duration-ms="14662" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[setZerodhaLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePin]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+            </line>
+            <line>
+              <![CDATA[selectZerodhaOrderPageShareQuantityOptn]]>
+            </line>
+            <line>
+              <![CDATA[selectZerodhaOrderPageSharePriceOptn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaOrderPageTriggerPriceOptn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaOrderPageMarketOptn]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaOrderPageOrderBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EquityOrderTest -->
+      </class> <!-- com.zerodha.QA11.Testcases.OrderPageTest -->
+      <class name="com.zerodha.QA11.Testcases.HomePageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.zerodha.QA11.Testcases.HomePageTest@10aa41f2]" started-at="2022-08-10T16:34:36 IST" name="Setup" finished-at="2022-08-10T16:35:16 IST" duration-ms="40667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="HomePageTest1()[pri:2, instance:com.zerodha.QA11.Testcases.HomePageTest@10aa41f2]" started-at="2022-08-10T16:35:16 IST" name="HomePageTest1" finished-at="2022-08-10T16:35:31 IST" duration-ms="15093" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[setZerodhaLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePin]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageLogo]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageNickName]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageSearchBar]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageDashboardOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageOrdersOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageHoldingsOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePagePositionsOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageFundsOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageAppsOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageViewStatementOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageMarginAvailableOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageMarginUsedOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageOpeningBalanceOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageUserAccountProfileOpt]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaHomePageUserAccountProfileOpt]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageUserFullName]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaHomePageUserEmailId]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaHomePageLogoutBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageTest1 -->
+        <test-method is-config="true" signature="Capturess(org.testng.ITestResult)[pri:0, instance:com.zerodha.QA11.Testcases.HomePageTest@10aa41f2]" started-at="2022-08-10T16:35:31 IST" name="Capturess" finished-at="2022-08-10T16:35:31 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageTest1 status=SUCCESS method=HomePageTest.HomePageTest1()[pri:2, instance:com.zerodha.QA11.Testcases.HomePageTest@10aa41f2] output=setZerodhaLoginPageUsername]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Capturess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.zerodha.QA11.Testcases.HomePageTest@10aa41f2]" started-at="2022-08-10T16:35:31 IST" name="tearDown" finished-at="2022-08-10T16:35:51 IST" duration-ms="19443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zerodha.QA11.Testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- FunctionalSuite -->
+</testng-results>

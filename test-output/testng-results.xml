@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[setZerodhaLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+    </line>
+    <line>
+      <![CDATA[setZerodhaLoginPagePin]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+    </line>
+    <line>
+      <![CDATA[selectZerodhaOrderPageShareQuantityOptn]]>
+    </line>
+    <line>
+      <![CDATA[selectZerodhaOrderPageSharePriceOptn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaOrderPageTriggerPriceOptn]]>
+    </line>
+    <line>
+      <![CDATA[verifyZerodhaOrderPageMarketOptn]]>
+    </line>
+    <line>
+      <![CDATA[clickZerodhaOrderPageOrderBtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-10T16:28:50 IST" name="Suite" finished-at="2022-08-10T16:29:12 IST" duration-ms="21638">
+    <groups>
+      <group name="Functional">
+        <method signature="OrderPageTest.EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@61d6015a]" name="EquityOrderTest" class="com.zerodha.QA11.Testcases.OrderPageTest"/>
+      </group> <!-- Functional -->
+      <group name="Regression">
+        <method signature="OrderPageTest.EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@61d6015a]" name="EquityOrderTest" class="com.zerodha.QA11.Testcases.OrderPageTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2022-08-10T16:28:50 IST" name="Test" finished-at="2022-08-10T16:29:12 IST" duration-ms="21638">
+      <class name="com.zerodha.QA11.Testcases.OrderPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.zerodha.QA11.Testcases.OrderPageTest@61d6015a]" started-at="2022-08-10T16:28:50 IST" name="Setup" finished-at="2022-08-10T16:29:02 IST" duration-ms="11883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="EquityOrderTest()[pri:3, instance:com.zerodha.QA11.Testcases.OrderPageTest@61d6015a]" started-at="2022-08-10T16:29:02 IST" name="EquityOrderTest" finished-at="2022-08-10T16:29:12 IST" duration-ms="9668" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[setZerodhaLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPageLoginBtn]]>
+            </line>
+            <line>
+              <![CDATA[setZerodhaLoginPagePin]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaLoginPagePinContinueBtn]]>
+            </line>
+            <line>
+              <![CDATA[selectZerodhaOrderPageShareQuantityOptn]]>
+            </line>
+            <line>
+              <![CDATA[selectZerodhaOrderPageSharePriceOptn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaOrderPageTriggerPriceOptn]]>
+            </line>
+            <line>
+              <![CDATA[verifyZerodhaOrderPageMarketOptn]]>
+            </line>
+            <line>
+              <![CDATA[clickZerodhaOrderPageOrderBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EquityOrderTest -->
+      </class> <!-- com.zerodha.QA11.Testcases.OrderPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
